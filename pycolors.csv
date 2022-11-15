@@ -1,0 +1,110 @@
+Group,ID,Name,R,G,B,Animal,Vegetable,Mineral
+Whites,1,Snow White,241,233,205,Breast of the black-headed Gull.,Snow-Drop.,Carara Marble and Calc Sinter.
+Whites,2,Reddish White,242,231,207,Egg of Grey Linnet.,Back of the Christmas Rose.,Porcelain Earth.
+Whites,3,Purplish White,236,230,208,Junction of the Neck and Back of the Kittiwake Gull.,White Geranium or Storks Bill.,Arragonite.
+Whites,4,Yellowish White,242,234,204,Egret.,Hawthorn Blossom.,Chalk and Tripoli.
+Whites,5,Orange coloured White,243,233,202,Breast of White or Screech Owl.,Large Wild Convolvulus.,French Porcelain Clay.
+Whites,6,Greenish White,242,235,205,Vent Coverts of Golden crested Wren.,Polyanthus Narcissus.,Calc sinter.
+Whites,7,Skimmed milk White,230,225,201,White of the Human Eyeballs.,Back of the Petals of Blue Hepatica.,Common Opal.
+Whites,8,Greyish White,226,221,198,Inside Quill-feathers of the Kittiwake.,White Hamburgh Grapes.,Granular Limestone.
+Greys,9,Ash Grey,203,200,183,Breast of long tailed Hen Titmouse.,Fresh Wood ashes.,Flint.
+Greys,10,Smoke Grey,191,187,176,Breast of the Robin round the Red.,,Flint.
+Greys,11,French Grey,190,190,179,Breast of Pied Wag tail.,,
+Greys,12,Pearl Grey,183,181,172,Backs of black headed and Kittiwake Gulls.,Back of Petals of Purple Hepatica.,Porcelain Jasper.
+Greys,13,Yellowish Grey,186,177,145,Vent coverts of White Rump.,Stems of the Barberry.,Common Calcedony.
+Greys,14,Bluish Grey,156,157,154,Back and tail Coverts Wood Pigeon.,,Limestone.
+Greys,15,Greenish Grey,138,141,132,Quill feathers of the Robin.,Bark of Ash Tree.,Clay Slate Wacke.
+Greys,16,Blackish Grey,91,92,97,Back of Nut-hatch.,Old Stems of Hawthorn.,Flint.
+Blacks,17,Greyish Black,85,81,82,Water Ousel. Breast and upper Part of Back of Water Hen.,,Basalt.
+Blacks,18,Bluish Black,65,63,68,Largest Black Slug.,Crowberry.,Black Cobalt Ochre.
+Blacks,19,Greenish Black,69,68,69,Breast of Lapwing.,,Hornblende.
+Blacks,20,Pitch or Brownish Black,66,57,55,Guillemot Wing Coverts of Black Cock.,,Yenite mica.
+Blacks,21,Reddish Black,67,54,53,Spots on Large Wings of Tyger Moth. Breast of Pochard Duck.,Berry of Fuchsia Coccinea.,Oliven Ore.
+Blacks,22,Ink Black,37,32,36,,Berry of Deadly Night Shade,Oliven Ore.
+Blacks,23,Velvet Black,36,31,32,Mole. Tail Feathers of Black Cock.,Black of Red and Black West-Indian peas.,Obsidian.
+Blues,24,Scotch Blue,40,31,63,Throat of Blue Titmouse.,Stamina of Single Purple Anemone.,Blue Copper Ore.
+Blues,25,Prussian Blue,28,25,73,Beauty Spot on Wing of Mallard Drake.,Stamina of Bluish Purple Anemone.,Blue Copper Ore
+Blues,26,Indigo Blue,79,99,141,,,Blue Copper Ore.
+Blues,27,China Blue,56,56,103,Rhynchites Nitens.,Back Parts of Gentian Flower.,Blue Copper Ore from Chessy.
+Blues,28,Azure Blue,92,107,143,Breast of Emerald-crested Manakin,Grape Hyacinth. Gentian.,Blue Copper Ore.
+Blues,29,Ultramarine Blue,101,122,187,Upper Side of the Wings of small blue Heath Butterfly.,Borrage.,Azure Stone or Lapis Lazuli.
+Blues,30,Flax-Flower Blue,111,136,175,Light Parts of the Margin of the Wings of Devil's Butterfly.,Flax flower.,Blue Copper Ore.
+Blues,31,Berlin Blue,121,148,181,Wing Feathers of Jay.,Hepatica.,Blue Sapphire.
+Blues,32,Verditter Blue,111,181,168,,,Lenticular Ore.
+Blues,33,Greenish Blue,113,155,162,,Great Fennel Flower.,Turquoise or Flour Spar.
+Blues,34,Greyish Blue,138,161,166,Back of blue Titmouse,Small Fennel Flower.,Iron Earth.
+Purples,35,Bluish Lilac Purple,208,213,211,Male of the Lebellula Depressa.,Blue Lilac.,Lepidolite.
+Purples,36,Bluish Purple,133,144,174,Papilio Argeotus. Azure Blue Butterfly.,Parts of White and Purple Crocus.,
+Purples,37,Violet Purple,58,47,82,,Purple Aster.,Amethyst.
+Purples,38,Pansy Purple,57,51,74,Chrysomela Goettingensis.,Sweet-scented Violet.,Derbyshire Spar.
+Purples,39,Campanula Purple,108,109,148,,Canterbury Bell. Campanula Persicifolia.,Fluor Spar.
+Purples,40,Imperial Purple,88,76,119,,Deep Parts of Flower of Saffron Crocus.,Fluor Spar.
+Purples,41,Auricula Purple,83,53,82,Egg of largest Bluebottle.or Flesh Fly.,Largest Purple Auricula.,Fluor Spar.
+Purples,42,Plum Purple,70,55,89,,Plum.,Fluor Spar.
+Purples,43,Red Lilac Purple,191,186,192,Light Spots of the upper Wings of Peacock Butterfly.,Red Lilac. Pale Purple Primrose.,Lepidolite.
+Purples,44,Lavender Purple,119,116,127,Light Parts of Spots on the under Wings of Peakcock Butterfly.,Dried Lavender Flowers.,Porcelain Jasper.
+Purples,45,Pale Blackish Purple,74,71,92,,,Porcelain Jasper.
+Greens,46,Celadine Green,184,191,175,Phalœna. Margaritaria.,Back of Tussilage Leaves.,Beryl.
+Greens,47,Mountain Green,178,181,153,Phalœna Viridaria.,Thick leaved Cudweed. Silver-leaved Almond.,Actynolite Beryl.
+Greens,48,Leek Green,151,156,132,,Sea Kale. Leaves of Leeks in Winter.,Actynolite Prase.
+Greens,49,Blackish Green,93,97,97,Elytra of Meloe Violaceus.,Dark Streaks on Leaves of Cayenne Pepper.,Serpentine.
+Greens,50,Verdigris Green,97,172,134,Tail of small Long-tailed Green Parrot.,,Copper Green.
+Greens,51,Bluish Green,164,182,167,Egg of Thrush.,Under Disk of Wild Rose Leaves.,Beryl.
+Greens,52,Apple Green,173,186,152,Under Side of Wings of Green Broom Moth.,,Crysoprase.
+Greens,53,Emerald Green,147,183,120,Beauty Spot on Wing of Teal Drake.,,Emerald.
+Greens,54,Grass Green,125,140,85,Scarabœus Nobilis.,General Appearance of Grass Fields. Sweet Sugar Pear,Uran Mica.
+Greens,55,Duck Green,51,67,30,Neck of Mallard,Upper Disk of Yew Leaves.,Ceylanite
+Greens,56,Sap Green,124,134,53,Under Side of lower Wings of Orange tip Butterfly,Upper Disk of Leaves of woody Night Shade.,
+Greens,57,Pistachio Green,142,152,73,Neck of Eider Drake,Ripe Pound Pear. Hypman like Saxifrage.,Crysolite.
+Greens,58,Asparagus Green,194,193,144,Brimstone Butterfly.,Veriegated Horse-Shoe Geranium.,Beryl.
+Greens,59,Olive Green,103,118,91,,Foliage of Lignum vitœ.,Epidote Olvene Ore.
+Greens,60,Oil Green,171,146,75,Animal and Shell of common Water Snail.,Nonpareil Apple from the Wall.,Beryl.
+Greens,61,Siskin Green,200,199,111,Siskin.,Ripe Coalmar Pear. Irish Pitcher Apple.,Uran Mica.
+Yellows,62,Sulphur Yellow,204,192,80,Yellow Parts of large Dragon Fly.,Various Coloured Snap dragon.,Sulphur
+Yellows,63,Primrose Yellow,235,221,153,Pale Canary Bird.,Wild Primrose,Pale coloured Sulphur.
+Yellows,64,Wax Yellow,171,150,73,Larva of large Water Beetle.,Greenish Parts of Nonpareil Apple.,Semi Opal.
+Yellows,65,Lemon Yellow,219,195,100,Large Wasp or Hornet,Shrubby Goldylocks.,Yellow Orpiment.
+Yellows,66,Gamboge Yellow,230,208,88,Wings of Goldfinch. Canary Bird.,Yellow Jasmine.,High Coloured Sulphur.
+Yellows,67,Kings Yellow,234,214,101,Head of Golden Pheasant.,Yellow tulip. Cinque foil.,
+Yellows,68,Saffron Yellow,208,155,44,Tail Coverts of Golden Pheasant.,Anhers of Saffron Grocus.,
+Yellows,69,Gallstone Yellow,163,102,41,Gallstones.,Marigold Apple.,
+Yellows,70,Honey Yellow,167,125,53,Lower Parts of Neck of Bird of Paradise.,,Fluor Spar.
+Yellows,71,Straw Yellow,240,214,150,Polar Bear.,Oat Straw.,Schorlite. Calamine.
+Yellows,72,Wine Yellow,215,196,133,Body of Silk Moth.,White Currants.,Saxon Topaz.
+Yellows,73,Sienna Yellow,241,210,140,Vent Parts of Tail of Bird of Paradise.,Stamina of Honey-suckle.,Pale Brazilian Topaz.
+Yellows,74,Ochre Yellow,239,204,131,Vent Coverts of Red Start.,,Porcelain Jasper.
+Yellows,75,Cream Yellow,243,218,167,Breast of Teal Drake.,,Porcelain Jasper.
+Oranges,76,Dutch Orange,223,168,55,Crest of Golden crested Wren.,Common Marigold. Seedpod of Spindle-tree.,Streak of Red Orpiment.
+Oranges,77,Buff Orange,235,188,113,Streak from the Eye of the King Fisher.,Stamina of the large White Cistus.,Natrolite.
+Oranges,78,Orpiment Orange,209,124,63,The Neck Ruff of the Golden Pheasant. Belly of the Warty Newt.,Indian Cress.,
+Oranges,79,Brownish Orange,146,70,47,Eyes of the largest Flesh Fly.,Style of the Orange Lily.,Dark Brazilian Topaz.
+Oranges,80,Reddish Orange,190,114,73,Lower Wings of Tyger Moth.,Hemimeris. Buff Hibiscus.,
+Oranges,81,Deep Reddish Orange,187,96,60,Gold Fish lustre abstracted.,Scarlet Leadington Apple.,
+Reds,82,Tile Red,199,107,74,Breast of the Cock Bullfinch.,Shrubby Pimpernel.,Porcelain Jasper.
+Reds,83,Hyacinth Red,167,85,54,Red Spots of the Lygœns Apterus Fly.,Red on the golden Rennette Apple.,Hyacinth.
+Reds,84,Scarlet Red,182,62,54,Scarlet Ibis or Curlew. Mark on the Head of Red Grouse.,Large red Oriental Poppy. Red Parts of red and black Indian Peas.,Light red Cinnaber.
+Reds,85,Vermilion Red,181,73,58,Red Coral.,Love Apple.,Cinnaber.
+Reds,86,Aurora Red,205,109,87,Vent converts of Pied Wood-Pecker.,Red on the Naked Apple.,Red Orpiment.
+Reds,87,Arterial Blood Red,113,21,24,Head of the Cock Gold-finch.,Corn Poppy Cherry.,
+Reds,88,Flesh Red,233,196,157,Human Skin.,Larkspur.,Heavy Spar. Limestone.
+Reds,89,Rose Red,238,218,195,,Common Garden Rose.,Figure Stone.
+Reds,90,Peach Blossom Red,238,207,191,,Peach Blossom.,Red Cobolt Ore.
+Reds,91,Carmine Red,206,83,107,,Raspberry. Cocks Comb. Carnation Pink.,Oriental Ruby.
+Reds,92,Lake Red,183,74,112,,Red Tulip. Rose Officinalus.,Spinel.
+Reds,93,Crimson Red,183,117,124,,,Precious Garnet.
+Reds,94,Purplish Red,97,39,65,Outside of Quills of Terico.,Dark Crimson Officinal Garden Rose.,Precious Garnet.
+Reds,95,Cochineal Red,122,72,72,,Under Disk of decayed Leaves of None-so-pretty.,Dark Cinnaber.
+Reds,96,Veinous Blood Red,63,48,51,Veinous Blood.,"Musk Flower, or dark Purple Scabious.",Pyrope.
+Reds,97,Brownish Purple Red,141,116,111,,Flower of deadly Nightshade.,Red Antimony Ore.
+Reds,98,Chocolate Red,77,54,53,Breast of Bird of Paradise.,Brown Disk of common Marigold.,
+Reds,99,Brownish Red,110,59,49,Mark on Throat of Red-throated Diver.,,Iron Flint.
+Browns,100,Deep Orange-coloured Brown,134,71,53,Head of Pochard. Wing coverts of Sheldrake.,Female Spike of Catstail Reed.,
+Browns,101,Deep Reddish Brown,85,61,58,"Breast of Pochard, and Neck of Teal Drake.",Dead Leaves of green Panic Grass.,Brown Blende.
+Browns,102,Umber Brown,97,57,54,Moor Buzzard.,Disk of Rubeckia.,
+Browns,103,Chestnut Brown,122,75,58,Neck and Breast of Red Grouse.,Chestnuts.,Egyptian Jasper.
+Browns,104,Yellowish Brown,148,105,67,Light Brown Spots on Guinea-Pig. Breast of a Hoopoe.,,"Iron Flint, and common Jasper."
+Browns,105,Wood Brown,195,158,109,Common Weasel. Light parts of Feathers on the Back of the Snipe.,Hazed Nuts.,Mountain Wood.
+Browns,107,Hair Brown,139,120,89,Head of Pintail Duck,,Wood Tin.
+Browns,108,Broccoli Brown,155,133,107,Head of Black headed Gull.,,Zircon.
+Browns,109,Clove Brown,118,96,81,Head and Neck of Male Kestril.,Stems of Black Currant Bush.,"Axinite, Rok Cristal."
+Browns,110,Blackish Brown,69,59,50,Stormy Petril. Wing Coverts of black Cock. Forehead of Foumart.,,Mineral Pitch.
